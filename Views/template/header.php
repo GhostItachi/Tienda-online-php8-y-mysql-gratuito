@@ -180,8 +180,8 @@
                     <?php if ($data['title'] == 'Pagina Principal') { ?>
                         <div class="hero__item set-bg" data-setbg="<?php echo BASE_URL; ?>public/img/hero/banner.jpg">
                             <div class="hero__text">
-                                <span>FRUTA FRESCA</span>
-                                <h2>Vegetable <br />100% Organicos</h2>
+                                <span>Accesorios</span>
+                                <h2>HERRAMIENTAS<br />100% Funcional</h2>
                                 <p>Recogida y entrega gratuitas disponibles</p>
                                 <a href="<?php echo BASE_URL . 'principal/productos'; ?>" class="primary-btn">Ver productos</a>
                             </div>
