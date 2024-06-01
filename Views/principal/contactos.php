@@ -60,7 +60,7 @@
     <div class="map-inside">
         <i class="icon_pin"></i>
         <div class="inside-widget">
-            <h4>Perú</h4>
+            <h4>Colombia</h4>
             <ul>
                 <li>Phone: <?php echo $data['negocio']['telefono']; ?></li>
                 <li>Add: <?php echo $data['negocio']['direccion']; ?></li>

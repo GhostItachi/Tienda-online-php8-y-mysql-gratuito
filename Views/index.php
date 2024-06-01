@@ -49,6 +49,7 @@
                         </div>
                         <div class="featured__item__text">
                             <h6><a href="#"><?php echo $producto['nombre']; ?></a></h6>
+                            <h5>Cantidad: <?php echo $producto['cantidad']; ?></h5>
                             <h5>$<?php echo $producto['precio']; ?></h5>
                         </div>
                     </div>
@@ -65,12 +66,12 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="banner__pic">
-                    <img src="<?php echo BASE_URL; ?>public/img/banner/banner-1.jpg" alt="">
+                    <img src="<?php echo BASE_URL; ?>public/img/banner/" alt="">
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="banner__pic">
-                    <img src="<?php echo BASE_URL; ?>public/img/banner/banner-2.jpg" alt="">
+                    <img src="<?php echo BASE_URL; ?>public/img/banner/" alt="">
                 </div>
             </div>
         </div>
@@ -100,6 +101,7 @@
                             echo '</div>';
                             echo '<div class="latest-product__item__text">';
                             echo '<h6>' . $producto['nombre'] . '</h6>';
+                            echo '<span>$' . $producto['cantidad'] . '</span>';
                             echo '<span>$' . $producto['precio'] . '</span>';
                             echo '</div>';
                             echo '</a>';
@@ -133,6 +135,7 @@
                             echo '</div>';
                             echo '<div class="latest-product__item__text">';
                             echo '<h6>' . $producto['nombre'] . '</h6>';
+                            echo '<span>$' . $producto['cantidad'] . '</span>';
                             echo '<span>$' . $producto['precio'] . '</span>';
                             echo '</div>';
                             echo '</a>';
@@ -166,6 +169,7 @@
                             echo '</div>';
                             echo '<div class="latest-product__item__text">';
                             echo '<h6>' . $producto['nombre'] . '</h6>';
+                            echo '<span>$' . $producto['cantidad'] . '</span>';
                             echo '<span>$' . $producto['precio'] . '</span>';
                             echo '</div>';
                             echo '</a>';

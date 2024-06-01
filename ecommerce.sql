@@ -26,11 +26,11 @@ CREATE TABLE IF NOT EXISTS `categorias` (
 -- Volcando datos para la tabla ecommerce.categorias: ~6 rows (aproximadamente)
 INSERT INTO `categorias` (`id`, `categoria`, `imagen`, `estado`) VALUES
 	(1, 'BEBIDAS', '20231017153308.jpg', 1),
-	(2, 'FRUTAS', '20231017153400.jpg', 1),
-	(3, 'LECHES', '20231017153411.jpg', 1),
-	(4, 'DETERGENTES', '20231017154646.jpg', 1),
-	(5, 'ACEITES', '20231017154052.jpg', 1),
-	(6, 'DESODORANTES', '20231017154500.jpg', 1);
+	(2, 'FRUTAS', '20231017153401.jpg', 1),
+	(3, 'LECHES', '20231017153402.jpg', 1),
+	(4, 'DETERGENTES', '20231017154403.jpg', 1),
+	(5, 'ACEITES', '20231017154407.jpg', 1),
+	(6, 'DESODORANTES', '20231017154405.jpg', 1);
 
 -- Volcando estructura para tabla ecommerce.configuracion
 CREATE TABLE IF NOT EXISTS `configuracion` (

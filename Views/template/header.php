@@ -36,7 +36,7 @@
     <div class="humberger__menu__overlay"></div>
     <div class="humberger__menu__wrapper">
         <div class="humberger__menu__logo">
-            <a href="#"><img src="<?php echo BASE_URL; ?>public/img/logo.png" alt="" width="50"></a>
+            <a href="#"><img src="<?php echo BASE_URL; ?>public/img/logo1.png" alt="" width="50"></a>
         </div>
         <div class="humberger__menu__cart">
             <ul>
@@ -114,7 +114,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="<?php echo BASE_URL; ?>"><img src="<?php echo BASE_URL; ?>public/img/logo.png" alt="LOGO" width="50"></a>
+                        <a href="<?php echo BASE_URL; ?>"><img src="<?php echo BASE_URL; ?>public/img/logo1.png" alt="LOGO" width="50"></a>
                     </div>
                 </div>
                 <div class="col-lg-6">

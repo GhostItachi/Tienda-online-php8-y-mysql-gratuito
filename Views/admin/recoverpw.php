@@ -49,7 +49,7 @@
                             <div class="p-2">
                                 <h4 class="text-muted float-right font-18 mt-4">Olvidaste tu contraseña</h4>
                                 <div>
-                                    <a href="<?php echo BASE_URL; ?>" class="logo logo-admin"><img src="<?php echo BASE_URL; ?>public/img/logo.png" height="50" alt="logo"></a>
+                                    <a href="<?php echo BASE_URL; ?>" class="logo logo-admin"><img src="<?php echo BASE_URL; ?>public/img/logo1.png" height="50" alt="logo"></a>
                                 </div>
                             </div>
 

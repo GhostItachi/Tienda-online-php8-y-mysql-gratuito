@@ -7,5 +7,5 @@ const DB = "shop";
 const CHARSET = "charset=utf8";
 const TITLE = "SHOP";
 const MONEDA = "USD";
-const CLIENT_ID = "";
+const CLIENT_ID = "AXyFr-Q2zcefAdEs89cq5ZAOHpOs8MGnIWrAtNKbgVaKkDALHG_RX4zk3PdFWm5zgvN3_aH_ePiQX6Lg";
 ?>
